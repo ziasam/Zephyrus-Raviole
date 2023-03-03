@@ -11,4 +11,4 @@ Install Instruction
 7. Now from pc type adb sideload rom.zip.
 8. After sideloading is complete, format storage and reboot to system.
 
-fastboot Images will be provideed with march release.
+fastboot Images will be provided with march release.
