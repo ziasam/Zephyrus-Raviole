@@ -1,5 +1,7 @@
 Install Instruction
 
+(Provided recovery is LineageOS recovery)
+
 1. Make sure your Bootloader is unlocked and You are coming from latest stock firmware.
 2. Connect phone to pc and boot to bootloader.
 3. Type fastboot -w in cmd prompt/terminal.
