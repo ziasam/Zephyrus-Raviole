@@ -1,6 +1,4 @@
-Install Instruction
-
-(Provided recovery is LineageOS recovery)
+Install Instructions
 
 1. Make sure your Bootloader is unlocked and You are coming from latest stock firmware.
 2. Connect phone to pc and boot to bootloader.
