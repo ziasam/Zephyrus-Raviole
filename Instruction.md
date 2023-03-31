@@ -7,7 +7,7 @@ Install Instructions
 5. flash vendor_boot.img (fastboot flash vendor_boot vendor_boot.img)
 6. flash boot.img (fastboot flash boot boot.img)
 7. Boot to recovery.
-8. Naviate to Adb sideload option and press sideload.
+8. Navigate to Adb sideload option and press sideload.
 9. Now from pc type adb sideload rom.zip.
 10. After sideloading is complete, format storage and reboot to system.
 
