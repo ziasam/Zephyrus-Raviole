@@ -9,3 +9,12 @@ Live Translate works now
 (Clean flash is mendatory)
 
 Donations are appreciated (Western Union App --> Bkash mobile Wallet --> +8801521325457(number))
+
+04/04/2023-v13/4-Build(Changelog)
+
+Added new LandScape Battery
+Fixed battery color in qs
+Added unlock ripple disable switch 
+Added hotspot toggle in QS internet dialog
+Added Statusbar and QuickStatusbar icon tap action
+
