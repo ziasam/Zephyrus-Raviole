@@ -1,0 +1,9 @@
+27/04/2023-v13.5-Build(Changelog)
+
+Merged April AOSP patch(r41)
+Haptic on sliders revamp
+Added statusbar brightness slider
+Added lockscreen shortcuts
+Added Udfps bg switcher
+Added dark mode
+Fixed battery color on quick qs
