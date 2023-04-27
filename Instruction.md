@@ -11,4 +11,5 @@ Install Instructions
 9. Now from pc type adb sideload rom.zip.
 10. After sideloading is complete, format storage and reboot to system.
 
-fastboot Images will be provided with march release.
+Note: Oriole April release mat require clean flashing.
+(Always flash vendor_boot.img and boot.img before flashing)
