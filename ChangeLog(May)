@@ -1,0 +1,19 @@
+06/05/2023-v13.6-Build(Changelog)
+
+Merged android-13.0.0_r43
+Mereged Latest tag (r43) in trees 
+Upstreamed Kernel(5.10.168)
+Fixed bt qs tile tap behavior like Internet tile
+Fixed scroll lag on some apps(Twitter, Spotify, Telegram)
+Added IOS behavioor on lockscreen bottom shortcut(Tap and hold) and improved haptic
+Volume dialog extra icon tap now opens media switcher dialog
+Added old/new volume dialog switcher toggle
+Added new brightness slider customization implementation
+Added Shimmering Effect on QS Media Panel
+Added per-app network restriction feature
+Added disable qs pull down on lockscreen toggle
+Fixed qr scanner now showing up on lockscreen
+Added Amoled Black theme
+Added Google powershare, screen protector mode 
+Removed Lineage glove mode , powershare and Idle mode
+Improved some existing features and overall optimization
