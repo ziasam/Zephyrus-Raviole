@@ -42,3 +42,11 @@ Privacy: Project-Zephyrus helps keep your Data Private with Camera & Microphone 
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Zephyrus-Raviole/v13.4-Raven-Stable/total.svg)](https://github.com/ziasam/Zephyrus-Raviole/releases)
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Zephyrus-Raviole/v13.5-Oriole-Stable/total.svg)](https://github.com/ziasam/Zephyrus-Raviole/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Zephyrus-Raviole/v13.5-Raven-Stable/total.svg)](https://github.com/ziasam/Zephyrus-Raviole/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Zephyrus-Raviole/v13.6-Oriole-Stable/total.svg)](https://github.com/ziasam/Zephyrus-Raviole/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Zephyrus-Raviole/v13.6-Raven-Stable/total.svg)](https://github.com/ziasam/Zephyrus-Raviole/releases)
+
