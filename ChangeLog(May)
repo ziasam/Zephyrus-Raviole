@@ -17,3 +17,11 @@ Added Amoled Black theme
 Added Google powershare, screen protector mode 
 Removed Lineage glove mode , powershare and Idle mode
 Improved some existing features and overall optimization
+
+09/05/2023-v13.6.1-Build(Changelog)
+
+Fixed Lte icon on statusbar
+Added SystemUI Restart option in Global Actions
+Fixed heavy click haptic on non-edge brightness if it's first click
+Fixed permission issue in some apps
+Kernel optimization
