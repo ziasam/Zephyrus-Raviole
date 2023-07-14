@@ -8,9 +8,8 @@ Install Instructions
 6. flash boot.img (fastboot flash boot boot.img)
 7. Flash dtbo.img (fastboot flash dtbo dtbo.img)
 8. Boot to recovery.
-9. Navigate to Adb sideload option and press sideload.
+9. Navigate to Apply Update option and press Apply update from adb.
 10. Now from pc type adb sideload rom.zip.
 11. After sideloading is complete, format storage(Not required if you are dirty flashing) and reboot to system.
 
-Note: Oriole April release mat require clean flashing.
 (Always flash vendor_boot.img and boot.img before flashing)
