@@ -3,6 +3,6 @@
 - July Patch
 - Fixed Now Playing detection in ambient screen
 - Fixed heads up notification timeout on ambient display
-- Fixed output switcher buton crash on volume dialog
+- Fixed output switcher button crash on volume dialog
 - Fixed double tap to wake issue on aod
 - Fixed unlinked notification and ring volume row activation issue
