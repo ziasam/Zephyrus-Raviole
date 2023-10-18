@@ -6,7 +6,6 @@ Install Instructions
 4. Download provided rom.zip, boot.img and vendor_boot.img from release
 5. flash vendor_boot.img (fastboot flash vendor_boot vendor_boot.img)
 6. flash boot.img (fastboot flash boot boot.img)
-7. Flash dtbo.img (fastboot flash dtbo dtbo.img)
 8. Boot to recovery.
 9. Navigate to Apply Update option and press Apply update from adb.
 10. Now from pc type adb sideload rom.zip.
